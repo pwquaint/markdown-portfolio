@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Paige's Website](https://github.com/pwquaint/pwquaint.github.io)
